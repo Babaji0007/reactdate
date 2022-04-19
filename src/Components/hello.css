@@ -1,0 +1,11 @@
+.hello{
+font-stretch: extra-expanded;
+font-style: italic;
+font-weight: bold;
+box-shadow: rgba(231, 182, 182, 0.25) 0px 54px 55px, rgba(255, 95, 95, 0.12) 0px -12px 30px, rgba(70, 21, 21, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+border: 2px solid rgb(44, 128, 224);
+padding: 20px 20px 20px 20px;
+margin-top: 50px;
+font-size: 10px;
+
+}
